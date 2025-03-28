@@ -1,8 +1,0 @@
-framework module "BiometridStandard" {
-    umbrella header "BiometridStandard.h"
-
-    export *
-    module * { export * }
-
-    use Foundation
-}
